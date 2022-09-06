@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Renovar registro de conducir",
+      "day": "22 de septiembre 9:00 Hs",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Clases del curso",
+      "day": "Diario de 9:00 Hs a 12 Hs",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Retirar a Felipe Colegio",
+      "day": "Diario 13:00 Hs",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}

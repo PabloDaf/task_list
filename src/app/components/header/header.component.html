@@ -1,0 +1,9 @@
+<header>
+    <h1>Lista de Tareas</h1>
+    <app-button 
+    color="{{showAddTask ? 'red' : 'green'}}"
+    text="{{showAddTask ? 'Cerrar Tareas' : 'Agregar Tareas'}}"
+    (btnClick)="toggleAddTask()" *ngIf="hasRoute('/')"
+    >
+    </app-button>
+</header>
